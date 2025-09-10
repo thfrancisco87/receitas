@@ -1,0 +1,55 @@
+body{
+    font-family: arial;
+    background-color: orange;
+}
+header{
+   display: flex;
+   margin: auto;
+   width: 1300px;height: 150px;
+   background-color: orangered; 
+   border: 20px;box-shadow: 20px 20px 20px;border-color: black;
+   h1{color: yellow;margin:auto;font-size: 50px;}
+}
+img{
+    display: flex;
+    width: 800px;height: 500px;
+    margin: auto;margin-top: 100px;
+    
+}
+
+.ingredientes{
+    
+    width: 800px;height: 700px;
+    background-color: orangered;
+    h1{color: yellow;font-size: 30px;text-align: center;}
+    p{color: yellow;text-align: justify;font-size: 25px;}
+    box-shadow: 12px 12px 12px 12px;border-color: black;
+}
+.preparo{
+    
+    margin-left: 400px;
+    margin-top: 40px;
+     width: 910px;height: 800px;
+    background-color: orangered;
+    h1{color: yellow;font-size: 30px;text-align: center;}
+    p{color: yellow;text-align: justify;font-size: 25px;}
+    box-shadow: 12px 12px 12px 12px;border-color: black;
+
+}
+ul{
+    font-size: 20px;
+    color: yellow;
+}
+ol{
+    font-size: 20px;
+    color: yellow; 
+}
+
+footer{
+    
+    
+    
+font-size: 25px;text-align: center;
+color: black;margin-top: 50px;
+}
+
