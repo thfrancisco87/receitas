@@ -1,0 +1,74 @@
+body{
+    background-color: yellowgreen;
+    font-family: arial;
+}
+header{
+    display: block;
+    margin: auto;
+    width:80%;height: auto;
+    background-color: yellowgreen;
+    color: black; font-size:35px;
+    text-align: center;
+    box-shadow:10px 10px 10px 10px;
+}
+.foto img{
+display: block;
+margin: auto;
+width:50%;height: auto;
+box-shadow:10px 10px 10px 10px;
+}
+.massa h2{
+    font-size: 30px;
+    text-align:justify;
+}
+.massa li{
+    font-size:25px;
+
+}
+.recheio h2{
+   font-size: 30px;
+    text-align:justify; 
+}
+.recheio li{
+font-size:25px;
+
+}
+.molho h2{
+   font-size: 30px;
+    text-align:justify;  
+}
+.molho li{
+ font-size:25px;
+   
+}
+.massa,.recheio,.molho{
+    display: block;
+    margin: auto;
+    margin-bottom:15px;
+    width:60%;height: auto;
+    box-shadow:10px 10px 10px 10px;
+
+}
+.mod1,.mod2,.mod3{
+    display: block;
+    margin: auto;
+    width: 80%;height: auto;
+    box-shadow:10px 10px 10px 10px;
+}
+.mod1,.mod2,.mod3 h2{
+    font-size: 30px;
+}
+.mod1,.mod2,.mod3 p{
+    font-size:25px;
+text-align: justify;
+}
+footer{
+    display: block;
+    margin: auto;
+    width: 100%;
+    box-shadow:10px 10px 10px 10px;
+}
+footer p{
+text-align: center;
+font-size:15px;
+}
